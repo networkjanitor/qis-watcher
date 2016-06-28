@@ -1,4 +1,4 @@
-^pls dont use this ugly pice of crap
+^pls dont use this ugly piece of crap
 
 
 # QIS Watcher
