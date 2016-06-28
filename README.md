@@ -13,3 +13,10 @@ Used for parsing grades from https://qis.fh-stralsund.de/
  * uses a combination of obscure string operations and htmlparser to extract information
  * no structure whatsoever
  * I only tested it for my own account
+ 
+ 
+## Getting Started
+ * Copy `qis_watcher.conf.example` to `qis_watcher.conf`
+ * Fill in the information required in `qis_watcher.conf`
+ * Install requirements from requirements.txt
+ * Set up cron job for the script
