@@ -1,0 +1,6 @@
+# Authentication details for your qis/mail account, only tested for role 'student'
+# Needed to see grades/degrees on qis (duh!) and can also be used to send email notifications
+# to the own account
+[account]
+username = firstname.lastname@fh-stralsund.de
+password = Correct Horse Battery Staple
