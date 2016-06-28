@@ -4,3 +4,7 @@
 [account]
 username = firstname.lastname@fh-stralsund.de
 password = Correct Horse Battery Staple
+
+# User agent for requests module
+[requests]
+useragent = qis_watcher v=experimental
